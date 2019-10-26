@@ -10,5 +10,7 @@ This is test for master-child branches
 This is test for master-child branches
 This is a test for fetch
 This is a test for fetch
+This is a test for git diff
+This is a test for git diff
 </body>
 </html>
