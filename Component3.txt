@@ -4,5 +4,9 @@
 Hello world
 This is test for pull
 This is test for push
+This is test for master-child branches
+This is test for master-child branches
+This is test for master-child branches
+This is test for master-child branches
 </body>
 </html>
