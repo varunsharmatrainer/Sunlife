@@ -11,5 +11,12 @@ This is test for master-child branches
 This is a test for fetch
 This is a test for fetch
 test for staging-unstaging
+changes done by developer2
+changes done by developer2
+changes done by developer2
+changes done by developer2
+changes done by developer2
+changes done by developer2
+changes done by developer2
 </body>
 </html>
